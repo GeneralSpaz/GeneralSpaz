@@ -1,5 +1,5 @@
 ![banner (2)](https://github.com/GeneralSpaz/GeneralSpaz/assets/30361659/acb655a5-e30c-45b1-ab54-729e8eb4d577)
-
+![Alt Text](https://steamuserimages-a.akamaihd.net/ugc/574565690976141685/273FDADA6812C06699E7C226538BD05BF9DEE91D/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false)
 
 ### Im Farzad, a junior CSE student!
 
