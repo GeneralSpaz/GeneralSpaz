@@ -1,9 +1,12 @@
+![banner](https://github.com/GeneralSpaz/GeneralSpaz/assets/30361659/113e2f8f-7f91-4c45-848d-e6ae59c9dd5e)
+
 ### Hi there 👋
 
 <!--
 **GeneralSpaz/GeneralSpaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
