@@ -2,7 +2,7 @@
 
 
 ### Im Farzad, a junior CSE student!
-![Alt Text](https://img2.reactor.cc/pics/post/%D0%B3%D0%B8%D1%84%D0%BA%D0%B8-Pixel-Art-Pixel-Gif-Warhammer-40000-6235519.gif)
+
 <!--
 **GeneralSpaz/GeneralSpaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
