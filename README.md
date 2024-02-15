@@ -1,8 +1,8 @@
 ![banner (2)](https://github.com/GeneralSpaz/GeneralSpaz/assets/30361659/acb655a5-e30c-45b1-ab54-729e8eb4d577)
 
-<img align="right" alt="Coding" width="400" src="https://img2.reactor.cc/pics/post/%D0%B3%D0%B8%D1%84%D0%BA%D0%B8-Pixel-Art-Pixel-Gif-Warhammer-40000-6235519.gif">
-### Im Farzad, a junior CSE student!
 
+### Im Farzad, a junior CSE student!
+![Alt Text](https://img2.reactor.cc/pics/post/%D0%B3%D0%B8%D1%84%D0%BA%D0%B8-Pixel-Art-Pixel-Gif-Warhammer-40000-6235519.gif)
 <!--
 **GeneralSpaz/GeneralSpaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
