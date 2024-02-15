@@ -1,6 +1,7 @@
-![banner](https://github.com/GeneralSpaz/GeneralSpaz/assets/30361659/113e2f8f-7f91-4c45-848d-e6ae59c9dd5e)
+![banner (2)](https://github.com/GeneralSpaz/GeneralSpaz/assets/30361659/acb655a5-e30c-45b1-ab54-729e8eb4d577)
 
-### Hi there 👋
+
+### Im Farzad, a junior CSE student!
 
 <!--
 **GeneralSpaz/GeneralSpaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
